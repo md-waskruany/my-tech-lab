@@ -60,3 +60,30 @@ body{
     width: 100%;
     padding: 10px;
 }
+/* <!-- =====service section is completed===== --> */
+#product-section{
+    width: 100%;
+    margin: 40px 0px;
+}
+.laptop-section{
+    width: 90%;
+    margin: 0 auto;
+}
+.mobile-section{
+    width: 90%;
+    margin: 0 auto;
+}
+.product-card{
+    margin: 30px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    width: 30%;
+    text-align: center;
+    padding: 20px 0px;
+    box-shadow: 5px 5px 20px grey;
+    border-radius: 8px;
+    /* <!-- =====Product section is completed===== --> */
+}
+
